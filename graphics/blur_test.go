@@ -5,10 +5,11 @@
 package graphics
 
 import (
-	"code.google.com/p/graphics-go/graphics/graphicstest"
 	"image"
 	"image/color"
 	"testing"
+
+	"github.com/Lealen/graphics-go/graphics/graphicstest"
 
 	_ "image/png"
 )
